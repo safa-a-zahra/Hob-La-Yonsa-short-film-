@@ -55,3 +55,6 @@
 - ملفات الحوار والتعليق الصوتي والمؤثرات الصوتية.
 - النسخة النهائية للفيلم.
 - العرض التقديمي الخاص بالمشروع.
+
+**لينك درايف المشروع (Google Drive):
+https://drive.google.com/drive/folders/1tmBdefcNAQ9AeHm_m69Wtgc67DtfBFil
